@@ -27,7 +27,7 @@ export const resume = {
         "**Embedded Checkout.** Led design from discovery to launch, replacing redirect checkout with an embedded, merchant-branded widget. **+17%** merchant conversion in month one, **−23%** payment drop-offs, and **70%** of target merchants integrated within 6 weeks.",
         "**Merchant dashboard.** Redesigned Credentials (API keys, webhooks) and other self-serve flows, presented as working code prototypes for engineering handoff.",
         "**Design system and AI workflow.** Built the multi-product design system, now in the codebase and used by every frontend engineer across all product pods. Turned it into AI context files so the team generates on-system UI in Claude, Cursor and Figma Make; made AI prototyping the default for design reviews.",
-        "**Team.** Mentor junior designers on UX documentation and component-driven design; run workshops with Risk, Ops, Sales, Product and Engineering.",
+        "**Team.** Mentor designers and product managers on UX documentation and component-driven design; run workshops with Risk, Ops, Sales, Product and Engineering.",
       ],
     },
     {

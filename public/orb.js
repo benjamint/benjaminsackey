@@ -14,7 +14,7 @@
     "Early in his career, Ben did field research with farmers and agents at Esoko.",
     "Ben tracks Peach's onboarding metrics monthly in Lightdash.",
     "Ben turned Peach's design system into AI context files, so Claude, Cursor and Figma Make generate on-system UI.",
-    "Ben mentors junior designers on UX documentation and component-driven design.",
+    "Ben mentors designers and product managers on UX documentation and component-driven design.",
     "Ben made AI prototyping the default for design reviews at Peach.",
     "Ben is open to Staff Product Designer roles in London, the EU, Canada and beyond.",
   ];
