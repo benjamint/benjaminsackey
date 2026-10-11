@@ -26,7 +26,7 @@ export default function Home() {
         </div>
       </section>
 
-      <div className="wrap reveal" data-orb="These come straight from Peach's monthly metrics reviews." data-say="All three are measured outcomes, not estimates.">
+      <div className="wrap reveal" data-orb="Three outcomes from Ben's work at Peach. Each one is on the resume." data-say="All three are measured outcomes, not estimates.">
         <Metrics
           glass
           items={[
@@ -94,7 +94,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="wrap section" style={{ paddingTop: 0 }} data-orb="Ben has been on panels and podcasts about Ghana's design scene since 2023.">
+      <section className="wrap section" style={{ paddingTop: 0 }} data-orb="Ben has spoken about design and tech in Ghana on a podcast and a panel.">
         <div className="panel reveal">
           <div className="about-grid">
             <div>
@@ -110,7 +110,7 @@ export default function Home() {
             <div>
               <div className="eyebrow" style={{ marginBottom: 12 }}>Talks</div>
               <ul className="timeline">
-                <li data-say="Ben on how Ghana's design scene grew over ten years. Worth a listen."><span><a href="https://open.spotify.com/episode/4hiCfVS8VIGEXyd41GHtrI" target="_blank" rel="noreferrer"><i>Building Bytes</i> podcast: the evolution of Ghana&rsquo;s product design space ↗</a></span><span className="when">2024</span></li>
+                <li data-say="Ben on how Ghana's product design space has evolved. Worth a listen."><span><a href="https://open.spotify.com/episode/4hiCfVS8VIGEXyd41GHtrI" target="_blank" rel="noreferrer"><i>Building Bytes</i> podcast: the evolution of Ghana&rsquo;s product design space ↗</a></span><span className="when">2024</span></li>
                 <li data-say="A panel on building technology for the Ghanaian market."><span><a href="https://open.spotify.com/episode/6Smk6gqZh4b3Fj4lsx37C0" target="_blank" rel="noreferrer"><i>Demo Fridays</i> panel: building technology for the Ghanaian market ↗</a></span><span className="when">2023</span></li>
               </ul>
               <div className="embeds">

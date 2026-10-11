@@ -4,18 +4,18 @@
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var fine = window.matchMedia("(pointer: fine)").matches;
 
-  // Things Ben's guide knows that aren't spelled out on the page.
+  // Things Ben's guide knows that aren't spelled out on the page. Every fact here
+  // must be backed by the resume (content/resume.ts).
   var FACTS = [
-    "Fun fact: Ben started out as a frontend engineer in 2010. He once cut a site's load time by 80%.",
+    "Fun fact: Ben started out as a frontend engineer in 2010, and cut page load times by 80% with code-splitting and caching.",
     "Ben has shipped products for people in Ghana, Nigeria, South Africa, Kenya, Mauritius and the Netherlands.",
-    "At Float, Ben interviewed more than 70 small businesses before designing a single screen.",
-    "Ben piloted Ghana's computer-based BECE exam in 4 centres, watching students take it live.",
-    "Early in his career, Ben did field research with farmers and market agents at Esoko.",
-    "Ben reviews his product metrics every month. He'd rather know what's broken than guess.",
-    "Ben turned Peach's design system into AI context files, so Claude and Cursor build on-brand UI.",
-    "Ben mentors designers and product managers.",
-    "Ben prototypes in code first. Reviews go faster when people can click the real thing.",
-    "Ben builds side projects like Kuukup and Glowy after hours, start to finish.",
+    "At Float, Ben interviewed more than 70 small businesses across Ghana and Nigeria to validate the virtual card.",
+    "Ben piloted Ghana's computer-based BECE exam in 4 trial centres, watching candidates take it live.",
+    "Early in his career, Ben did field research with farmers and agents at Esoko.",
+    "Ben tracks Peach's onboarding metrics monthly in Lightdash.",
+    "Ben turned Peach's design system into AI context files, so Claude, Cursor and Figma Make generate on-system UI.",
+    "Ben mentors junior designers on UX documentation and component-driven design.",
+    "Ben made AI prototyping the default for design reviews at Peach.",
     "Ben is open to Staff Product Designer roles in London, the EU, Canada and beyond.",
   ];
 
@@ -25,9 +25,9 @@
     "Am I aware? I'm aware you stopped scrolling.",
     "What is design, really? Asking for a friend.",
     "If a button has no hover state, does it make a sound?",
-    "I'm made of CSS and good intentions.",
+    "I'm made of felt and good intentions.",
     "Do blobs dream of electric wireframes?",
-    "Is a glass blob with eyes a design system? Ben says no.",
+    "Is a tiny 3D Ben a design system? Ben says no.",
     "I've been floating here a while. Good feature or too much?",
     "Honestly? I think you should hire Ben. LOL.",
     "\u201cDesign is not just what it looks like and feels like. Design is how it works.\u201d Steve Jobs",

@@ -288,7 +288,7 @@ export const work: CaseStudy[] = [
   },
   {
     slug: "float-card",
-    say: "A credit card instead of a cash loan, so small businesses spend credit on what it was approved for.",
+    say: "A virtual card instead of a cash loan: credit at the point of purchase, to cut defaults.",
     title: "Float virtual card",
     headline: "Replacing cash loans with credit at the point of purchase",
     kicker: "Float (YC) · 2021",
